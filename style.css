@@ -7,5 +7,10 @@ header {
 .letra-color {
     background: linear-gradient(to right,rgb(196, 16, 160), rgb(195, 16, 16),rgb(195, 16, 31)); 
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.icono-gigante {
+    font-size: 2rem;
+    padding: 10px 5px;
 }
