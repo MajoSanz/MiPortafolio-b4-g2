@@ -1,5 +1,11 @@
 header {
-    background-image: linear-gradient(rgba(4, 4, 4, 0.785), rgba(158, 61, 61, 0.544)), url("assets/fondo.jpg");
+    background-image: linear-gradient(rgba(21, 22, 22, 0.87), rgba(131, 11, 33, 0.544)), url("assets/fondo.jpg");
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.letra-color {
+    background: linear-gradient(to right,rgb(196, 16, 160), rgb(195, 16, 16),rgb(195, 16, 31)); 
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
