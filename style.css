@@ -1,11 +1,11 @@
 header {
-    background-image: linear-gradient(rgba(21, 22, 22, 0.87), rgba(131, 11, 33, 0.544)), url("assets/fondo.jpg");
+    background-image: linear-gradient(rgba(21, 22, 22, 0.87), rgba(155, 96, 107, 0.544)), url("assets/fondo2.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .letra-color {
-    background: linear-gradient(to right,rgb(196, 16, 160), rgb(195, 16, 16),rgb(195, 16, 31)); 
+    background: linear-gradient(to right,rgb(85, 23, 73), rgb(71, 12, 12),rgb(59, 59, 59)); 
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
@@ -13,4 +13,16 @@ header {
 .icono-gigante {
     font-size: 2rem;
     padding: 10px 5px;
+}
+
+.img-clon {
+    width: 100%;
+}
+
+.img-displays {
+    width: 100%;
+}
+
+.img-pagina {
+    width: 100%;
 }
