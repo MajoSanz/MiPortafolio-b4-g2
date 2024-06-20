@@ -1,7 +1,15 @@
 header {
-    background-image: linear-gradient(rgba(21, 22, 22, 0.87), rgba(155, 96, 107, 0.544)), url("assets/fondo2.jpg");
+    background-image: linear-gradient(rgba(21, 22, 22, 0.87), rgba(155, 96, 107, 0.544)), url("assets/fondo.png");
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.justificado {
+    text-align:justify;
+}
+
+.centrado {
+    text-align: center;
 }
 
 .letra-color {
@@ -10,9 +18,15 @@ header {
     background-clip: text;
 }
 
+.img-perfil {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
 .icono-gigante {
-    font-size: 2rem;
-    padding: 10px 5px;
+    font-size: 7rem;
+    padding: 5px 10px;
 }
 
 .img-clon {
@@ -25,4 +39,16 @@ header {
 
 .img-pagina {
     width: 100%;
+}
+
+.card-text-centrado {
+    margin: 15px;
+    text-align: justify;
+}
+
+.icono-contacto{
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    margin: 4px 8px;
+
 }
