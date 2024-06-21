@@ -76,6 +76,6 @@ En la construcción de mi portafolio utilicé diversas herramientas, entre ellas
 * Canva.
   
 <br>
-<br>
 Este portafolio fue desarrollado por Majo Sánchez en el Bootcamp de TECNOLOchicas PRO. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de majitosanz18@gmail.com o creando un issue en el repositorio. 
+<br>
 ¡Gracias por visitar mi portafolio! Espero que disfrutes explorando mis proyectos y aprendizajes.
