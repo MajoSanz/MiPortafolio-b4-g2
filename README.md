@@ -16,50 +16,44 @@
 
 ## 1. Introducción
 
-Bienvenido al proyecto "Clon de Google", una recreación simple de la página principal de búsqueda de Google. Este proyecto tiene como objetivo proporcionar una plataforma educativa para aquellos interesados en aprender y practicar habilidades de desarrollo web utilizando HTML y CSS.
-
-El clon de Google imita la interfaz minimalista y centrada del motor de búsqueda más popular del mundo, permitiendo a los desarrolladores comprender y replicar su diseño limpio y eficiente. Aunque este proyecto no incluye funcionalidad de búsqueda real, se enfoca en la estructura y el estilo de la página, proporcionando una excelente oportunidad para aprender sobre la creación de interfaces de usuario responsivas y accesibles.
-
-La idea de este proyecto es poder ayudar e inspirar a los demás. Ya sea que seas un principiante que busca mejorar tus habilidades en desarrollo web o un desarrollador experimentado que quiere explorar nuevas técnicas de diseño, el clon de Google ofrece una base sólida sobre la cual construir y personalizar.
+¡Hola! Soy Majo Sánchez, una desarrolladora frontend junior apasionada por crear interfaces web bonitas y funcionales. Este portafolio es una muestra de mis habilidades y proyectos en el desarrollo web.
 
 ## 2. Objetivos de aprendizaje
 
-El proyecto "Clon de Google" está diseñado para ayudarte a alcanzar los siguientes objetivos de aprendizaje:
+Mi portafolio tiene como objetivo principal demostrar mis habilidades en desarrollo web frontend y compartir mi trayectoria y aprendizajes en este campo. Algunos objetivos específicos incluyen:
 
-- Práctica con HTML y CSS: Familiarízate con la estructura básica de un sitio web utilizando HTML5 y aprende a dar estilo a elementos HTML utilizando CSS3.
-
-- Responsividad y Diseño Adaptativo: Aprende a crear un diseño que se adapte de manera efectiva a diferentes tamaños de pantalla utilizando técnicas de diseño responsivo.
-
-- Control de Versiones y Colaboración: Practica el uso de Git y GitHub para controlar versiones de tu proyecto y colaborar con otros desarrolladores.
-
-- Personalización y Creatividad: Experimenta con la personalización del diseño, los colores, las fuentes y los elementos interactivos para añadir tu propio toque único al proyecto.
-
-- Desarrollo de Proyectos Pequeños: Desarrolla habilidades en la creación de proyectos web pequeños desde cero, aplicando buenas prácticas de desarrollo y organización de archivos.
-
-Este proyecto no solo te ayudará a mejorar tus habilidades técnicas en desarrollo web, sino que también te proporcionará una base sólida para explorar y expandir tu conocimiento en el diseño y la implementación de interfaces web modernas y efectivas. 
+- Demostrar Competencias Técnicas: Mostrar dominio en HTML5, CSS3 y JavaScript para la creación de interfaces web atractivas y funcionales.
+- Implementación de Tecnologías Modernas: Utilizar Bootstrap para desarrollar diseños responsive y componentes reutilizables que mejoren la experiencia del usuario.
+- Aplicar Efectos Dinámicos: Integrar JavaScript para agregar interactividad y efectos dinámicos que enriquezcan la experiencia de navegación.
+- Diseño Visual y Creativo: Utilizar Canva y otras herramientas para crear elementos visuales personalizados que complementen la estética y usabilidad del portafolio.
+- Prácticas de Desarrollo Colaborativo: Aplicar prácticas ágiles y trabajar en equipo para mejorar la eficiencia y calidad del desarrollo de proyectos.
+- Continuo Aprendizaje y Mejora: Estar abierto a retroalimentación constructiva y aprender continuamente nuevas tecnologías y mejores prácticas en desarrollo web.
 
 ## 3. ¿Qué se construyó?
 
-Se construyó un clon simple de la página principal de búsqueda de Google. El proyecto replica la interfaz de usuario básica de la página de inicio de Google utilizando HTML y CSS. Incluye una barra de búsqueda centrada, botones funcionales de búsqueda ("Buscar con Google" y "Voy a tener suerte"), y un diseño responsivo que se adapta a diferentes tamaños de pantalla.
+Mi portafolio incluye una variedad de proyectos que destacan mis habilidades en desarrollo web frontend. Algunos de los elementos y características principales que se construyeron son:
+
+-Diseño Responsivo y Estético: Implementación de diseños responsive utilizando Bootstrap, asegurando que el contenido se vea bien en diferentes dispositivos y tamaños de pantalla.
+- Interactividad y Dinamismo: Integración de JavaScript para crear funcionalidades interactivas como animaciones, efectos de desplazamiento y transiciones que mejoran la experiencia del usuario.
+- Optimización y Rendimiento: Optimización del rendimiento utilizando prácticas eficientes de carga de recursos, minimización de archivos CSS y JavaScript para tiempos de carga más rápidos.
+- Personalización Visual: Uso de Canva para el diseño gráfico de elementos visuales personalizados, como fondos de pantalla y gráficos, para mejorar la estética general del portafolio.
+- Accesibilidad y Usabilidad: Implementación de HTML semántico y accesible, asegurando que el contenido sea fácilmente interpretable por tecnologías de asistencia y cumpla con estándares de accesibilidad web.
+- Proyectos Destacados: Inclusión de proyectos significativos que demuestran habilidades en la creación de interfaces intuitivas y atractivas mediante el uso de técnicas avanzadas de CSS y JavaScript.
 
 ## 4. ¿Cómo se construyó?
 
-El clon de Google se construyó utilizando las siguientes tecnologías y metodologías:
+Mi portafolio se construyó utilizando las siguientes tecnologías:
 
-- HTML5: Se utilizó para estructurar el contenido de la página, incluyendo la barra de búsqueda y los botones.
-
-- CSS3: Se empleó para dar estilo a los elementos HTML y para crear un diseño similar al de la página de inicio de Google. Se utilizó CSS para establecer la disposición de los elementos, el tamaño de la fuente, los colores y los efectos visuales.
-
-- Diseño Responsivo: Se aseguró de que el diseño fuera adaptable utilizando media queries en CSS para ajustar el diseño y el tamaño de los elementos según el tamaño de la pantalla del dispositivo.
-
-- Metodología de Desarrollo: Se siguió una metodología incremental, comenzando por la estructura básica del HTML, aplicando estilos CSS paso a paso para lograr la apariencia deseada, y luego agregando interactividad con JavaScript de manera progresiva.
+- HTML5: Para la estructura semántica de las páginas web.
+- CSS3: Para el diseño y estilización de los elementos HTML.
+- JavaScript: Para la funcionalidad y comportamiento dinámico de las páginas.
+- Bootstrap: Para el diseño responsivo y componentes reutilizables.
+- Typewriter JS: Para crear efectos de escritura animada en el clon de Google.
+- Canva: Para el diseño de mi fondo de pantalla y otros elementos visuales.
 
 ## 5. Link del proyecto
 
-Puedes entrar a ver el proyecto desde el siguiente enlace: https://miportafoliop.netlify.app/
-
-
-La idea de este proyecto es poder ayudar e inspirar a los demás. ¡Gracias por usar el clon de Google! Espero que disfrutes aprendiendo y personalizando este proyecto tanto como disfruté creándolo.
+Puedes entrar a ver mi portafolio desde el siguiente enlace: https://miportafoliop.netlify.app/
 
 ## 6. Captura de pantalla
 
@@ -67,11 +61,16 @@ La idea de este proyecto es poder ayudar e inspirar a los demás. ¡Gracias por 
 
 ## 7. Herramientas utilizadas
 
-En este proyecto se hizo uso de:
+En la construcción de mi portafolio utilicé diversas herramientas, entre ellas:
+
 * HTML5.
 * CSS3.
 * Visual Studio Code.
 * Live Server Extension (VS Code).
+* JavaScript.
+* Bootstrap.
+* Typewriter JS.
+* Canva.
   
 <br>
 <br>
