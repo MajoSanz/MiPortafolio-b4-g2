@@ -4,7 +4,7 @@
 
 ## Índice
 
-* [1. Introducción](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#1-introducci%C3%B3n)
+* [1. Introducción](https://github.com/MajoSanz/MiPortafolio-b4-g2/blob/main/README.md#1-introducci%C3%B3n)
 * [2. Objetivos de aprendizaje](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#2-objetivos-de-aprendizaje)
 * [3. ¿Qué se construyó?](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#3-qu%C3%A9-se-construy%C3%B3)
 * [4. ¿Cómo se construyó?](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#4-c%C3%B3mo-se-construy%C3%B3)
