@@ -9,7 +9,7 @@
 * [3. ¿Qué se construyó?](https://github.com/MajoSanz/MiPortafolio-b4-g2/blob/main/README.md#3-qu%C3%A9-se-construy%C3%B3)
 * [4. ¿Cómo se construyó?](https://github.com/MajoSanz/MiPortafolio-b4-g2/blob/main/README.md#4-c%C3%B3mo-se-construy%C3%B3)
 * [5. Link del proyecto](https://github.com/MajoSanz/MiPortafolio-b4-g2/blob/main/README.md#5-link-del-proyecto)
-* [6. Captura de pantalla](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#6-captura-de-pantalla)
+* [6. Captura de pantalla](https://github.com/MajoSanz/MiPortafolio-b4-g2/blob/main/README.md#6-captura-de-pantalla)
 * [7. Herramientas utilizadas](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#7-herramientas-utilizadas)
 
 ****
