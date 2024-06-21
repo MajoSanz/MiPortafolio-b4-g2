@@ -1,6 +1,6 @@
 # Mi Portafolio
 
-¡Bienvenido a mi portafolio personal! Aquí podrás encontrar una muestra de mis proyectos, habilidades y experiencias en el desarrollo web frontend. Este portafolio refleja mi evolución y pasión por la tecnología.
+¡Hola! Soy Majo Sánchez, una desarrolladora frontend junior apasionada por crear interfaces web bonitas y funcionales. Este portafolio es una muestra de mis habilidades y proyectos en el desarrollo web.
 
 ## Índice
 
@@ -16,7 +16,7 @@
 
 ## 1. Introducción
 
-¡Hola! Soy Majo Sánchez, una desarrolladora frontend junior apasionada por crear interfaces web bonitas y funcionales. Este portafolio es una muestra de mis habilidades y proyectos en el desarrollo web.
+¡Bienvenido a mi portafolio personal! Aquí podrás encontrar una muestra de mis proyectos, habilidades y experiencias en el desarrollo web frontend. Este portafolio refleja mi evolución y pasión por la tecnología.
 
 ## 2. Objetivos de aprendizaje
 
@@ -57,12 +57,15 @@ Puedes entrar a ver mi portafolio desde el siguiente enlace: https://miportafoli
 
 ## 6. Captura de pantalla
 
-![Mi Portafolio](Images/Capturagoogle.png)
+![Mi Portafolio](Images/MiPortafolio1.png)
+![Mi Portafolio](Images/MiPortafolio2.png)
+![Mi Portafolio](Images/MiPortafolio3.png)
+![Mi Portafolio](Images/MiPortafolio4.png)
+![Mi Portafolio](Images/MiPortafolio5.png)
 
 ## 7. Herramientas utilizadas
 
 En la construcción de mi portafolio utilicé diversas herramientas, entre ellas:
-
 * HTML5.
 * CSS3.
 * Visual Studio Code.
